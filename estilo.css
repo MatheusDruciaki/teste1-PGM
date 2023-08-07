@@ -1,0 +1,28 @@
+.body{
+    background-color: red;
+}
+* {
+    background-color: black;
+    color: white;
+}
+h2 {
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    /*background-color: darkblue;*/
+}
+input {
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px white;
+}
+.limpar {
+    color: black;
+    font-size: 23px;
+}
+p {
+    color: white;
+}
